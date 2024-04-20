@@ -1,5 +1,5 @@
 ---
-title: 写在开发之前
+title: 写在博客之前
 ---
 $ cout<<commit-first<<my-BlogTest<<return0
 ---
